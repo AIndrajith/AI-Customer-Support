@@ -10,7 +10,7 @@ wheels/
 .venv
 .idea
 
-.env
 credentials.json
 node_modules/
 dashboard/dist/
+config.bat
